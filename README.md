@@ -14,6 +14,8 @@
 
 - [プライバシーポリシー (日本語)](https://yorihide-saito.github.io/legal/worklapse/privacy-policy.html)
 - [Privacy Policy (English)](https://yorihide-saito.github.io/legal/worklapse/privacy-policy-en.html)
+- [サポート (日本語)](https://yorihide-saito.github.io/legal/worklapse/support.html)
+- [Support (English)](https://yorihide-saito.github.io/legal/worklapse/support-en.html)
 
 ## セットアップ
 
